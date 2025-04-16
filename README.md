@@ -1,3 +1,4 @@
 # Papo-Formativo-2025-J1
 Site-Acessível 
-<img src="img/Screenshot 2025-03-31 145803.png" alt="img do projeto com contraste">
+![image](https://github.com/user-attachments/assets/5617b6ec-a8cc-48f4-994e-2e35b23aff20)
+
